@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mysvc2
+  name: mysvc5
 spec:
   type: NodePort
   selector:
